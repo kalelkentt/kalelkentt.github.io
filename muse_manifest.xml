@@ -1,0 +1,337 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="muse-php.com/Test18082017" resolutions="1x,2x" timestamp="1558677549409">
+  <folder name="css">
+    <file name="site_global.css" crc="435016190"/>
+    <file name="master_a-master.css" crc="491545371" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="3841268425" ref="index"/>
+    <file name="index.css" crc="442313860" ref="index"/>
+    <file name="nomq_index.css" crc="4163991648" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="310584261" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
+    <file name="form_check.php" crc="4020933626" ref="index"/>
+    <file name="form_throttle.php" crc="4259590256" ref="index"/>
+    <file name="form_process.php" crc="37464564" ref="index"/>
+    <file name="form-u9331.php" crc="3860484318" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="bkg_02.jpg" crc="431156423" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="bkg_03.jpg" crc="114254416" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bkg_04.jpg" crc="74305810" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="arrows.png" crc="58021109" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bkg_022.jpg" crc="431156423" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bkg_032.jpg" crc="114254416" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bkg_042.jpg" crc="74305810" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="close_02.png" crc="93986234" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gallery_01.jpg" crc="4170160883" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gallery_02.jpg" crc="409909116" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gallery_03.jpg" crc="4090876642" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gallery_04.jpg" crc="77183758" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gallery_05.jpg" crc="3819316390" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gallery_07.jpg" crc="173501775" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gallery_08.jpg" crc="3893596364" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nav_close.png" crc="3772692647" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nav_next.png" crc="4006292736" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nav_previous.png" crc="4063030925" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="social_01_twitter.png" crc="484740047" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="social_06_linkedin.png" crc="3758693811" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="social_15_ffffound.png" crc="130497261" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="social_18_lastfm.png" crc="523231328" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nav_previous2.png" crc="119276475" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nav_previous_2x.png" crc="4063030925" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nav_next2.png" crc="503931158" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nav_next_2x.png" crc="4006292736" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="u6008.png" crc="3960887400" ref="index"/>
+    <file name="u6008_2x.png" crc="4040926289" ref="index"/>
+    <file name="u6008-r.png" crc="217776652" ref="index"/>
+    <file name="u6008-r_2x.png" crc="4277525130" ref="index"/>
+    <file name="u6010.png" crc="439367282" ref="index"/>
+    <file name="u6010_2x.png" crc="3986807244" ref="index"/>
+    <file name="u6010-r.png" crc="1864439" ref="index"/>
+    <file name="u6010-r_2x.png" crc="370752683" ref="index"/>
+    <file name="u6012.png" crc="3808929994" ref="index"/>
+    <file name="u6012_2x.png" crc="22478447" ref="index"/>
+    <file name="u6012-r.png" crc="4262146845" ref="index"/>
+    <file name="u6012-r_2x.png" crc="4239415459" ref="index"/>
+    <file name="u6014.png" crc="3915787178" ref="index"/>
+    <file name="u6014_2x.png" crc="4132983961" ref="index"/>
+    <file name="u6014-r.png" crc="462551175" ref="index"/>
+    <file name="u6014-r_2x.png" crc="528126582" ref="index"/>
+    <file name="close_022.png" crc="120033356" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="close_02_2x.png" crc="93986234" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nav_close2.png" crc="107567146" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nav_close_2x.png" crc="3772692647" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gallery_01-crop-u11027.jpg" crc="340222393" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gallery_02-crop-u13646.jpg" crc="3837134079" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gallery_03-crop-u13688.jpg" crc="365937711" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gallery_04-crop-u13730.jpg" crc="452451545" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gallery_05-crop-u13772.jpg" crc="256258868" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gallery_07-crop-u13814.jpg" crc="27955567" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gallery_01-crop-u11021.jpg" crc="4228767961" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gallery_02-crop-u13658.jpg" crc="533926616" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gallery_03-crop-u13700.jpg" crc="3961514528" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gallery_04-crop-u13742.jpg" crc="49666186" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gallery_05-crop-u13784.jpg" crc="4030754630" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gallery_07-crop-u13826.jpg" crc="337236835" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u6154.png" crc="61525556" ref="index"/>
+    <file name="u6154_2x.png" crc="139177739" ref="index"/>
+    <file name="u6154-r.png" crc="174870856" ref="index"/>
+    <file name="u6154-r_2x.png" crc="432416161" ref="index"/>
+    <file name="u6156.png" crc="41722603" ref="index"/>
+    <file name="u6156_2x.png" crc="113682047" ref="index"/>
+    <file name="u6156-r.png" crc="325468491" ref="index"/>
+    <file name="u6156-r_2x.png" crc="3845774034" ref="index"/>
+    <file name="u6150.png" crc="95667016" ref="index"/>
+    <file name="u6150_2x.png" crc="3760471711" ref="index"/>
+    <file name="u6150-r.png" crc="276656394" ref="index"/>
+    <file name="u6150-r_2x.png" crc="46194986" ref="index"/>
+    <file name="u6152.png" crc="3782793625" ref="index"/>
+    <file name="u6152_2x.png" crc="326513039" ref="index"/>
+    <file name="u6152-r.png" crc="52021147" ref="index"/>
+    <file name="u6152-r_2x.png" crc="326622433" ref="index"/>
+    <file name="u60082.png" crc="3960887400" ref="index"/>
+    <file name="u6008_2x2.png" crc="4040926289" ref="index"/>
+    <file name="u6008-r2.png" crc="217776652" ref="index"/>
+    <file name="u6008-r_2x2.png" crc="4277525130" ref="index"/>
+    <file name="u60102.png" crc="439367282" ref="index"/>
+    <file name="u6010_2x2.png" crc="3986807244" ref="index"/>
+    <file name="u6010-r2.png" crc="1864439" ref="index"/>
+    <file name="u6010-r_2x2.png" crc="370752683" ref="index"/>
+    <file name="u60122.png" crc="3808929994" ref="index"/>
+    <file name="u6012_2x2.png" crc="22478447" ref="index"/>
+    <file name="u6012-r2.png" crc="4262146845" ref="index"/>
+    <file name="u6012-r_2x2.png" crc="4239415459" ref="index"/>
+    <file name="u60142.png" crc="3915787178" ref="index"/>
+    <file name="u6014_2x2.png" crc="4132983961" ref="index"/>
+    <file name="u6014-r2.png" crc="462551175" ref="index"/>
+    <file name="u6014-r_2x2.png" crc="528126582" ref="index"/>
+    <file name="gallery_01-crop-u110272.jpg" crc="4203058635" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gallery_02-crop-u136462.jpg" crc="3940487510" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gallery_03-crop-u136882.jpg" crc="3979450889" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gallery_04-crop-u137302.jpg" crc="247018746" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gallery_05-crop-u137722.jpg" crc="4117184545" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gallery_07-crop-u138142.jpg" crc="4251966632" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gallery_01-crop-u110212.jpg" crc="504555114" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gallery_02-crop-u136582.jpg" crc="10587778" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gallery_03-crop-u137002.jpg" crc="3902198011" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gallery_04-crop-u137422.jpg" crc="4213561750" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gallery_05-crop-u137842.jpg" crc="445123660" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gallery_07-crop-u138262.jpg" crc="4118574217" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u60083.png" crc="238849846" ref="index"/>
+    <file name="u6008_2x3.png" crc="3922032346" ref="index"/>
+    <file name="u6008-r3.png" crc="396650444" ref="index"/>
+    <file name="u6008-r_2x3.png" crc="39363551" ref="index"/>
+    <file name="u60103.png" crc="3839467230" ref="index"/>
+    <file name="u6010_2x3.png" crc="4135998741" ref="index"/>
+    <file name="u6010-r3.png" crc="3885104682" ref="index"/>
+    <file name="u6010-r_2x3.png" crc="3860062966" ref="index"/>
+    <file name="u60123.png" crc="4040958838" ref="index"/>
+    <file name="u6012_2x3.png" crc="380879497" ref="index"/>
+    <file name="u6012-r3.png" crc="4185422880" ref="index"/>
+    <file name="u6012-r_2x3.png" crc="4100678511" ref="index"/>
+    <file name="u60143.png" crc="4029590941" ref="index"/>
+    <file name="u6014_2x3.png" crc="106485933" ref="index"/>
+    <file name="u6014-r3.png" crc="3939023032" ref="index"/>
+    <file name="u6014-r_2x3.png" crc="81540747" ref="index"/>
+    <file name="gallery_01-crop-u110273.jpg" crc="313911843" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gallery_02-crop-u136463.jpg" crc="533021455" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gallery_03-crop-u136883.jpg" crc="47192358" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gallery_04-crop-u137303.jpg" crc="3923401895" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gallery_05-crop-u137723.jpg" crc="97911180" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gallery_07-crop-u138143.jpg" crc="351434027" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gallery_01-crop-u110213.jpg" crc="93619902" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gallery_02-crop-u136583.jpg" crc="1209752" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gallery_03-crop-u137003.jpg" crc="529678880" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gallery_04-crop-u137423.jpg" crc="334116632" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gallery_05-crop-u137843.jpg" crc="314423181" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gallery_07-crop-u138263.jpg" crc="209462944" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="149342679" seo="true" mt="1558677423009" redirect="true"/>
+</manifest>
